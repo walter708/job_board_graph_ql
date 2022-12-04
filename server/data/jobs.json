@@ -22,5 +22,35 @@
     "title": "Graphic Designer",
     "description": "We are looking for a talented graphics designer",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "BgTpK6DC6TGJ8oMP5me-T",
+    "title": "Node Developer ",
+    "description": "We are interested in hiring a node developer ",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "z72Cr9VY0BM9hW324Z8vO",
+    "title": "Python Developer",
+    "description": "We are looking for a python developer ",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "QY40b0KQuynBrSXHe1eg4",
+    "title": "Rust Developer",
+    "description": "We are looking for a rust developer ",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "xE9LA0zjoOsYUSIvlHJLW",
+    "title": "Game Developer ",
+    "description": "Looking for a good game master",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "UkqFUQYHg-zh9-k9Pe_9K",
+    "title": "HR",
+    "description": "Looking for a good manager",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   }
 ]
