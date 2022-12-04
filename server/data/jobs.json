@@ -6,51 +6,21 @@
     "description": "We are looking for a Frontend Developer familiar with React."
   },
   {
-    "id": "GR7vTA_btqTnLtXcEDX8C",
-    "title": "Backend Developer",
-    "companyId": "pVbRRBQtMVw6lUAkj1k43",
-    "description": "We are looking for a Backend Developer familiar with Python and Express."
-  },
-  {
-    "id": "yX71WsWqBRAFuMAIDj4W0",
-    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
-    "title": "Full-Stack Developer",
-    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
-  },
-  {
-    "id": "yrj8Pn03bBNA-KSVgIE6e",
-    "title": "Backend Developer",
-    "companyId": "pVbRRBQtMVw6lUAkj1k43",
-    "description": "We are looking for a Backend Developer familiar with Python and Express."
-  },
-  {
     "id": "sJWshBs4RHT-jI9wXtTd_",
     "title": "Backend Developer",
     "companyId": "pVbRRBQtMVw6lUAkj1k43",
     "description": "We are looking for a Backend Developer familiar with Python and Express."
   },
   {
-    "id": "KbNb96Hox5vqfa_oPNLC2",
-    "title": "Backend Developer",
-    "companyId": "pVbRRBQtMVw6lUAkj1k43",
-    "description": "We are looking for a Backend Developer familiar with Python and Express."
-  },
-  {
-    "id": "oh-fUfXd1HXLtjas4W-Pm",
-    "title": "Backend Developer",
-    "description": "We are looking for a Backend Developer familiar with Python and Express.",
-    "companyId": "pVbRRBQtMVw6lUAkj1k43"
-  },
-  {
-    "id": "c_AoMM1Ra36nm7nl5zTUK",
-    "title": "Backend Developer",
-    "description": "We are looking for a Backend Developer familiar with Python and Express.",
+    "id": "4eD1C-gYEFBEAY_xwDcZe",
+    "title": "QA Tester",
+    "description": "We are looking for an enthusiastic QA tester",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   },
   {
-    "id": "mHWe84avb_1ZUCYLIPPuV",
-    "title": "QA Tester ",
-    "description": "We are looking for a well rounded QA tester will to learn ",
+    "id": "MyHbARl3pNd_eouBQaIfU",
+    "title": "Graphic Designer",
+    "description": "We are looking for a talented graphics designer",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   }
 ]

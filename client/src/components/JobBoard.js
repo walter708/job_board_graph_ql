@@ -1,11 +1,11 @@
 import JobList from './JobList';
 import { useEffect, useState } from 'react';
-import { getData } from '../graphql/query';
+import { getJobs } from '../graphql/query';
 
 function JobBoard() {
   const [jobs, setJobs]  = useState([])
   useEffect(() => {
-    getData().then(setJobs)
+    getJobs().then(setJobs)
   }, [])
   
   return (
