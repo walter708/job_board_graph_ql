@@ -6,8 +6,21 @@ export const resolvers = {
     jobs:() => Job.findAll()
   },
   
+  Mutation:{
+    createJob:(_root, {input}, {user}) => {
+      if(!user){
+        throw Error("User not logged in")
+      }
+      return Job.create({...input, companyId:user.companyId})
+    },
+    deleteJob:(_root, {id}) => Job.delete(id),
+    updateJob:(_root, {updateInput}) => Job.update(updateInput)
+  },
+  
   Job:{
-    company:(job) => Company.findById(job.companyId)
+    company:(job) => {
+      return Company.findById(job.companyId)
+    }
     },
     
   Company:{
